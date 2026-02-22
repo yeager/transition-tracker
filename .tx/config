@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:danielnylander:p:transition-tracker:r:transition-tracker-pot]
+[o:danielnylander:p:transition-tracker:r:transition_tracker]
 file_filter = po/<lang>.po
 source_file = po/transition-tracker.pot
 source_lang = en

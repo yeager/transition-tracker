@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the transition-tracker package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: transition-tracker 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: 2026-02-22 07:13+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305198/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/transition_tracker/main.py:74 src/transition_tracker/main.py:82
+#: src/transition_tracker/main.py:280
+msgid "Transition Tracker"
+msgstr "Övergångsspårare"
+
+#: src/transition_tracker/main.py:87
+msgid "Refresh transitions"
+msgstr "Uppdatera övergångar"
+
+#: src/transition_tracker/main.py:93 src/transition_tracker/main.py:238
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/transition_tracker/main.py:94
+msgid "Copy Debug Info"
+msgstr "Kopiera felsökningsinformation"
+
+#: src/transition_tracker/main.py:95
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/transition_tracker/main.py:96
+msgid "About Transition Tracker"
+msgstr "Om Övergångsspårare"
+
+#: src/transition_tracker/main.py:115
+msgid "No transitions loaded"
+msgstr "Inga övergångar inlästa"
+
+#: src/transition_tracker/main.py:116
+msgid "Click refresh to fetch current Debian transitions."
+msgstr "Klicka på uppdatera för att hämta aktuella Debian-övergångar."
+
+#: src/transition_tracker/main.py:126
+msgid "Ready"
+msgstr "Redo"
+
+#: src/transition_tracker/main.py:141
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/transition_tracker/main.py:147
+msgid "Welcome to Transition Tracker"
+msgstr "Välkommen till Övergångsspårare"
+
+#: src/transition_tracker/main.py:148
+msgid ""
+"Track library transitions.\n"
+"\n"
+"✓ Monitor ongoing Debian/Ubuntu transitions\n"
+"✓ Visual progress indicators\n"
+"✓ Package migration status\n"
+"✓ Desktop notifications for changes\n"
+"✓ Filter by release and library"
+msgstr ""
+"Spåra biblioteksövergångar.\n"
+"\n"
+"✓ Övervaka pågående Debian/Ubuntu-övergångar\n"
+"✓ Visuella framstegsindikatorer\n"
+"✓ Paketmigreringsstatus\n"
+"✓ Skrivbordsmeddelanden om ändringar\n"
+"✓ Filtrera efter utgåva och bibliotek"
+
+#: src/transition_tracker/main.py:155
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: src/transition_tracker/main.py:178
+msgid "Fetching transitions..."
+msgstr "Hämtar övergångar..."
+
+#: src/transition_tracker/main.py:195
+msgid "Unknown"
+msgstr "Okänd"
+
+#: src/transition_tracker/main.py:197
+#, python-format
+msgid "%(count)d packages"
+msgstr "%(count)d paket"
+
+#: src/transition_tracker/main.py:207
+#, python-format
+msgid "%(count)d transitions loaded"
+msgstr "%(count)d övergångar inlästa"
+
+#: src/transition_tracker/main.py:241
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: src/transition_tracker/main.py:242
+msgid "Notify on transition changes"
+msgstr "Avisera vid övergångsändringar"
+
+#: src/transition_tracker/main.py:261
+msgid "Debug info copied"
+msgstr "Felsökningsinformation kopierades"
+
+#: src/transition_tracker/main.py:267
+msgid "General"
+msgstr "Allmänt"
+
+#: src/transition_tracker/main.py:269
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/transition_tracker/main.py:270
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/transition_tracker/main.py:287
+msgid "Track package transitions in Debian and Ubuntu with visual status."
+msgstr "Spåra paketövergångar i Debian och Ubuntu med visuell status."
