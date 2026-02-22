@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the transition-tracker package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: transition-tracker 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/transition_tracker/main.py:74 src/transition_tracker/main.py:82
+#: src/transition_tracker/main.py:280
+msgid "Transition Tracker"
+msgstr ""
+
+#: src/transition_tracker/main.py:87
+msgid "Refresh transitions"
+msgstr ""
+
+#: src/transition_tracker/main.py:93 src/transition_tracker/main.py:238
+msgid "Settings"
+msgstr ""
+
+#: src/transition_tracker/main.py:94
+msgid "Copy Debug Info"
+msgstr ""
+
+#: src/transition_tracker/main.py:95
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: src/transition_tracker/main.py:96
+msgid "About Transition Tracker"
+msgstr ""
+
+#: src/transition_tracker/main.py:115
+msgid "No transitions loaded"
+msgstr ""
+
+#: src/transition_tracker/main.py:116
+msgid "Click refresh to fetch current Debian transitions."
+msgstr ""
+
+#: src/transition_tracker/main.py:126
+msgid "Ready"
+msgstr ""
+
+#: src/transition_tracker/main.py:141
+msgid "Welcome"
+msgstr ""
+
+#: src/transition_tracker/main.py:147
+msgid "Welcome to Transition Tracker"
+msgstr ""
+
+#: src/transition_tracker/main.py:148
+msgid ""
+"Track library transitions.\n"
+"\n"
+"✓ Monitor ongoing Debian/Ubuntu transitions\n"
+"✓ Visual progress indicators\n"
+"✓ Package migration status\n"
+"✓ Desktop notifications for changes\n"
+"✓ Filter by release and library"
+msgstr ""
+
+#: src/transition_tracker/main.py:155
+msgid "Get Started"
+msgstr ""
+
+#: src/transition_tracker/main.py:178
+msgid "Fetching transitions..."
+msgstr ""
+
+#: src/transition_tracker/main.py:195
+msgid "Unknown"
+msgstr ""
+
+#: src/transition_tracker/main.py:197
+#, python-format
+msgid "%(count)d packages"
+msgstr ""
+
+#: src/transition_tracker/main.py:207
+#, python-format
+msgid "%(count)d transitions loaded"
+msgstr ""
+
+#: src/transition_tracker/main.py:241
+msgid "Notifications"
+msgstr ""
+
+#: src/transition_tracker/main.py:242
+msgid "Notify on transition changes"
+msgstr ""
+
+#: src/transition_tracker/main.py:261
+msgid "Debug info copied"
+msgstr ""
+
+#: src/transition_tracker/main.py:267
+msgid "General"
+msgstr ""
+
+#: src/transition_tracker/main.py:269
+msgid "Quit"
+msgstr ""
+
+#: src/transition_tracker/main.py:270
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: src/transition_tracker/main.py:287
+msgid "Track package transitions in Debian and Ubuntu with visual status."
+msgstr ""

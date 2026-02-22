@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=transition-tracker
+Comment=GTK4 tool to track library transitions in Debian and Ubuntu
+Exec=transition-tracker
+Icon=applications-other-symbolic
+Terminal=false
+Categories=Development;
