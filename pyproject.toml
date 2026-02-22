@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "transition-tracker"
-version = "0.1.0"
+version = "0.1.1"
 description = "GTK4 tool to track library transitions in Debian and Ubuntu"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
