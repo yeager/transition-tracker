@@ -1,0 +1,23 @@
+Source: transition-tracker
+Section: devel
+Priority: optional
+Maintainer: Daniel Nylander <daniel@danielnylander.se>
+Build-Depends: debhelper-compat (= 13),
+               dh-python,
+               python3-all,
+               python3-setuptools,
+               pybuild-plugin-pyproject
+Standards-Version: 4.7.0
+Homepage: https://github.com/yeager/transition-tracker
+Vcs-Git: https://github.com/yeager/transition-tracker.git
+Vcs-Browser: https://github.com/yeager/transition-tracker
+
+Package: transition-tracker
+Architecture: all
+Depends: ${python3:Depends},
+         ${misc:Depends},
+         python3-gi,
+         gir1.2-gtk-4.0,
+         gir1.2-adw-1
+Description: GTK4 tracker for Debian library transitions
+ GTK4/Adwaita tool to track library transitions in Debian\n and Ubuntu. Monitors transition status and helps maintainers\n coordinate rebuilds during library transitions.
